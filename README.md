@@ -1,2 +1,2 @@
 # React-Portfolio-Challenge-20
-Portfolio built with React
+Portfolio built with React and Vite
